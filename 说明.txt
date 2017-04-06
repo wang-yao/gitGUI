@@ -8,3 +8,9 @@
 6.github edit this file-Commit changes
 7.Remote-Fetch from
 8.Merge-Local Merge
+9.删除github repository。repository
+			   -Settings
+			      -Delete this repository
+				 -type repository name
+				    -I understand the consequences,delete this repository
+10.直接删除本地repository文件目录
