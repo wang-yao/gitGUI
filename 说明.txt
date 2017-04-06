@@ -1,7 +1,8 @@
 git GUI push to github
 
 1.git GUI here
-2.Help-Show SSH Key¡£Èç¹ûÃ»ÓĞSSH Key¿ÉÒÔGenerate Key£¬Ö®ºóÃÜÔ¿»á´¢´æÔÚC:\Users\xx\.sshÄ¿Â¼ÏÂ
-3.ĞèÒªÎªgithubÌí¼ÓSSH Key¡£github-Settings-SSH and GPG keys-New SSH key-Titel and key-Add SSH key
+2.Help-Show SSH Keyã€‚å¦‚æœæ²¡æœ‰SSH Keyå¯ä»¥Generate Keyï¼Œä¹‹åå¯†é’¥ä¼šå‚¨å­˜åœ¨C:\Users\xx\.sshç›®å½•ä¸‹
+3.éœ€è¦ä¸ºgithubæ·»åŠ SSH Keyã€‚github-Settings-SSH and GPG keys-New SSH key-Titel and key-Add SSH key
 4.Clone Existing Repository-Clone or download from github,Clone with SSH-Source Location&Target Directory-Clone-Open SSH-yes-OK
-5.ºÏ²¢¡£Rescan-Stage Changed-Commint Message-Commint-Push-Push Branches-master-Push
+5.åˆå¹¶ã€‚Rescan-Stage Changed-Commint Message-Commint-Push-Push Branches-master-Push
+github edit
