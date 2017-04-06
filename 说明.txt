@@ -5,6 +5,6 @@
 3.需要为github添加SSH Key。github-Settings-SSH and GPG keys-New SSH key-Titel and key-Add SSH key
 4.Clone Existing Repository-Clone or download from github,Clone with SSH-Source Location&Target Directory-Clone-Open SSH-yes-OK
 5.合并。Rescan-Stage Changed-Commint Message-Commint-Push-Push Branches-master-Push
-6.github edit
+6.github edit this file-Commit changes
 7.Remote-Fetch from
 8.Merge-Local Merge
