@@ -8,9 +8,9 @@ git GUI push to github
 6.github edit this file-Commit changes  <br>
 7.Remote-Fetch from  <br>
 8.Merge-Local Merge  <br>
-9.删除github repository。repository
-			   -Settings
-			      -Delete this repository
-				 -type repository name
+9.删除github repository。repository  <br>
+			   -Settings  <br>
+			      -Delete this repository  <br>
+				 -type repository name  <br>
 				    -I understand the consequences,delete this repository  <br>
 10.直接删除本地repository文件目录
